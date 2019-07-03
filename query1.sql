@@ -1,0 +1,64 @@
+INSERT INTO
+  komputery(
+    nazwa,
+    lokalizacja,
+    system_op,
+    system_op2,
+    nr_inw
+  )
+VALUES
+  (
+    'Place3',
+    3,
+    3,
+    null,
+    '46-68-119'
+  );
+INSERT INTO
+  komputery(
+    nazwa,
+    lokalizacja,
+    system_op,
+    system_op2,
+    nr_inw
+  )
+VALUES
+  (
+    'Place4',
+    3,
+    4,
+    null,
+    '46-68-120'
+  );
+INSERT INTO
+  komputery(
+    nazwa,
+    lokalizacja,
+    system_op,
+    system_op2,
+    nr_inw
+  )
+VALUES
+  (
+    'Gosp4',
+    6,
+    2,
+    null,
+    '46-68-121'
+  );
+INSERT INTO
+  komputery (
+    nazwa,
+    lokalizacja,
+    system_op,
+    system_op2,
+    nr_inw
+  )
+VALUES
+  (
+    'IT4',
+    5,
+    9,
+    null,
+    '46-68-122'
+  );
